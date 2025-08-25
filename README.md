@@ -1,6 +1,6 @@
-# C3I E25_Wearable  
-Concours de Conception de Circuit Imprimé de l'Université de Sherbrooke, été 2025
-## Thème : Wearable
+# C3I A25_Business_Card  
+Concours de Conception de Circuit Imprimé de l'Université de Sherbrooke, automne 2025
+## Thème : Carte de visite
 
 Bienvenue à la compétition de conception de PCB sur le thème "Wearable" ! Cette compétition vise à stimuler la créativité et l'innovation dans la conception de circuits imprimés en vous invitant à créer un PCB que l'on peut porter!
 
